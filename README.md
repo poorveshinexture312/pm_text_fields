@@ -23,7 +23,7 @@ import 'package:pm_text_fields/pm_text_fields.dart';
 To use PMTextField in your Flutter app, import the package and create a new PMTextField widget. You can create multiple text fields according to the requirements of your project or your design, with different styling and attributes.
 
   ```dart
-            import 'package:flutter/material.dart';
+import 'package:flutter/material.dart';
 import 'package:pm_text_fields/pm_text_fields.dart';
 
 void main() {

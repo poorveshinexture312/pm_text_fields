@@ -1,6 +1,6 @@
 # PM Text Field 
 
-[![pub package](https://img.shields.io/badge/version-v0.0.1-blue)](https://pub.dev/packages/pm_text_fields)
+[![pub package](https://img.shields.io/badge/version-v1.0.0-blue)](https://pub.dev/packages/pm_text_fields)
 [![license](https://img.shields.io/badge/license-MIT-britegreen)](https://github.com/poorveshinexture312/pm_text_fields/blob/main/LICENSE)
 ![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&color=29B1EE)
 ![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&color=0C459C)

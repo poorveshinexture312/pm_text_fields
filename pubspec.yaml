@@ -1,6 +1,6 @@
 name: pm_text_fields
 description: "PMTextField is a customizable Flutter widget for text input, offering developers control over text fields' appearance and functionality. Create custom text fields for passwords, emails, phone numbers, and more with ease."
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/poorveshinexture312/pm_text_fields.git
 issue_tracker: https://github.com/poorveshinexture312/pm_text_fields/issues
 documentation: https://github.com/poorveshinexture312/pm_text_fields/blob/main/example/README.md

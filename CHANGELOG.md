@@ -5,3 +5,7 @@
 ## 1.0.0
 
 * performance improvements
+
+## 1.0.1
+
+* performance improvements

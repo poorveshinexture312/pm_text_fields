@@ -1,4 +1,4 @@
-# PM Text Field
+# PM Text Field 
 
 [![pub package](https://img.shields.io/badge/version-v0.0.1-blue)](https://pub.dev/packages/pm_text_fields)
 [![license](https://img.shields.io/badge/license-MIT-britegreen)](https://github.com/poorveshinexture312/pm_text_fields/blob/main/LICENSE)
@@ -12,7 +12,7 @@ PMTextField is a versatile and customizable Flutter widget for text input, desig
 1. Add the latest version of the package to your pubspec.yaml (and run`dart pub get`):
 ```yaml
 dependencies:
-  pm_text_fields: ^0.0.1
+  pm_text_fields: ^1.0.0
 ```
 2. Import the package and use it in your Flutter App.
 ```dart
